@@ -6,7 +6,7 @@ const Project = () => {
    const [projects, setProjects] = useState([]);
 
    const getProjects = async () => {
-      const response = await fetch('/projects.json');
+      const response = await fetch('./projects.json');
       const data = await response.json();
       setProjects(data);
    }
