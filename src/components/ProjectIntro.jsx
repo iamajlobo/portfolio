@@ -7,7 +7,7 @@ const ProjectIntro = () => {
     
     const getProjects = async () => {
         const response = await fetch('./projects.json');
-        const data = response.json();
+        const data = await response.json();
         setProjects(data);
     }
     
