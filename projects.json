@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "My Activity 1",
+    "description": "A simple activity created to practice organizing tasks.",
+    "date": "2025-01-01"
+  },
+  {
+    "id": 2,
+    "title": "My Activity 2",
+    "description": "This activity focuses on improving consistency and workflow.",
+    "date": "2025-01-03"
+  },
+  {
+    "id": 3,
+    "title": "My Activity 3",
+    "description": "An activity designed to test ideas and basic functionality.",
+    "date": "2025-01-05"
+  },
+  {
+    "id": 4,
+    "title": "My Activity 4",
+    "description": "A short task aimed at learning better structure and planning.",
+    "date": "2025-01-07"
+  },
+  {
+    "id": 5,
+    "title": "My Activity 5",
+    "description": "This activity represents steady progress and continuous learning.",
+    "date": "2025-01-09"
+  },
+  {
+    "id": 6,
+    "title": "My Activity 6",
+    "description": "An example activity showing simple data handling.",
+    "date": "2025-01-11"
+  },
+  {
+    "id": 7,
+    "title": "My Activity 7",
+    "description": "A task created to practice organizing content effectively.",
+    "date": "2025-01-13"
+  },
+  {
+    "id": 8,
+    "title": "My Activity 8",
+    "description": "This activity highlights attention to detail and clarity.",
+    "date": "2025-01-15"
+  },
+  {
+    "id": 9,
+    "title": "My Activity 9",
+    "description": "An activity focused on refining existing concepts.",
+    "date": "2025-01-17"
+  },
+  {
+    "id": 10,
+    "title": "My Activity 10",
+    "description": "A sample entry used to demonstrate structured data.",
+    "date": "2025-01-19"
+  },
+  {
+    "id": 11,
+    "title": "My Activity 11",
+    "description": "This activity reflects ongoing practice and improvement.",
+    "date": "2025-01-21"
+  },
+  {
+    "id": 12,
+    "title": "My Activity 12",
+    "description": "A final sample activity completing the dummy dataset.",
+    "date": "2025-01-23"
+  }
+]
