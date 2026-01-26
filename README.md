@@ -3,7 +3,7 @@
 A simple personal portfolio website built with **React + Vite** to showcase my projects, skills, and learning journey as a developer.
 
 🔗 **Live Demo:**  
-[https://iamajlobo.github.io/lobo-portfolio-2026/](https://iamajlobo.github.io/portfolio/)
+[https://iamajlobo.github.io/portfolio/](https://iamajlobo.github.io/portfolio/)
 
 ---
 
