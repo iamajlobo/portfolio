@@ -17,8 +17,8 @@ const Project = () => {
 
    return (
       <section>
-         <div className="text-center max-w-6xl mx-auto py-15 border-b-2 border-gray-200 mb-10">
-            <h2 className="text-xl md:text-3xl font-bold">My Projects</h2>
+         <div className="max-w-6xl mx-auto text-center py-15 border-b-2 border-gray-200 mb-10">
+            <h2 className="text-xl md:text-3xl font-bold text-blue-600">My Projects</h2>
             <p className="text-sm mt-2 px-5 md:px-50 text-gray-800">
                This section showcases the projects I’ve worked 
                on as part of my learning and growth. Each project 

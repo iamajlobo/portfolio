@@ -19,7 +19,7 @@ const Hero = () => {
 
         <div className="mt-3 mb-10 md:mb-0 flex gap-2">
           <a
-            className="text-center w-20 lg:w-30 py-2 px-3 text-sm md:text-md md:py-2 md:px-2 font-semibold text-white bg-blue-600 border-2
+            className="text-center w-20 md:w-25 lg:w-30 py-2 px-3 text-sm md:text-md md:py-2 md:px-2 font-semibold text-white bg-blue-600 border-2
                      border-blue-600 rounded hover:bg-white hover:text-blue-600 transition ease-in-out duration-500"
             href="https://github.com/iamajlobo"
             target="_blank"
@@ -28,7 +28,7 @@ const Hero = () => {
           </a>
 
           <a
-            className="text-center w-20 lg:w-30 py-2 px-3 text-sm md:text-md md:py-2 md:px-5 text-blue-600 border-2 border-blue-600 rounded 
+            className="text-center w-20 md:w-25 lg:w-30 py-2 px-3 text-sm md:text-md md:py-2 md:px-5 text-blue-600 border-2 border-blue-600 rounded 
                     hover:bg-blue-600 hover:text-white transition ease-in-out duration-400"
             href="https://www.linkedin.com/in/aj-lobo-9a16773a8/"
             target="_blank"

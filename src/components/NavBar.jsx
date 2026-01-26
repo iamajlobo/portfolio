@@ -25,8 +25,8 @@ const NavBar = () => {
                             h-screen md:w-auto w-full p-10 md:p-0 text-center
                             transition ease-linear duration-1000`}>
                 <Link to='/' className={`${(active==='home'?'text-black md:border-b-2 border-blue-600':'')} mx-2 mt-5 md:mt-0`} onClick={()=>handleLinks('home')}>Home</Link>
-                <Link to='/about' className={`${(active==='about'?'text-black md:border-b-2 border-blue-600':'')} mx-2 mt-2 md:mt-0`} onClick={()=>handleLinks('about')}>About</Link>
-                <Link to='/projects' className={`${(active==='projects'?'text-black md:border-b-2 border-blue-600':'')} mx-2 mt-2 md:mt-0`} onClick={()=>handleLinks('projects')}>Projects</Link>
+                <Link to='/about' className={`${(active==='about'?'text-black md:border-b-2 border-blue-600':'')} mx-2 mt-3 md:mt-0`} onClick={()=>handleLinks('about')}>About</Link>
+                <Link to='/projects' className={`${(active==='projects'?'text-black md:border-b-2 border-blue-600':'')} mx-3 mt-4 md:mt-0`} onClick={()=>handleLinks('projects')}>Projects</Link>
                 <img className='md:hidden w-6 absolute top-5 left-5' onClick={()=>setIsOpen(false)} src={close} alt="Close Icon" />
             </ul>
         </nav>

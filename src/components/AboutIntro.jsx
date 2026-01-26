@@ -2,9 +2,9 @@ import { Link } from "react-router";
 
 const AboutIntro = () => {
     return (
-        <section className="py-5 md:py-15 px-5 md:px-20 bg-blue-50 shadow-sm">
+        <section className="py-10 md:py-15 px-5 md:px-20 bg-blue-50 shadow-sm">
             <div className="max-w-6xl mx-auto text-center">
-                <h2 className="text-xl md:text-4xl font-bold mb-5">About Me</h2>
+                <h2 className="text-xl md:text-4xl font-bold mb-5 text-blue-600">About Me</h2>
                 <p className="text-sm md:text-base lg:px-40 mb-5">
                     I’m a Computer Science student with a curiosity for learning 
                     and solving problems. I enjoy taking on new challenges that 
