@@ -12,7 +12,7 @@ const NavBar = () => {
         }`;
 
     return (
-        <nav className='bg-white py-3 md:py-4 px-5 md:px-15 border-b-2 border-gray-200 flex justify-between uppercase items-center sticky top-0 z-50'>
+        <nav className='bg-white py-4 px-5 md:px-15 border-b-2 border-gray-200 flex justify-between uppercase items-center sticky top-0 z-50'>
             <Link to='/' className='font-bold mx-2 text-lg'>
                 <span className='text-blue-600'>AJ</span>LOBO
             </Link>
