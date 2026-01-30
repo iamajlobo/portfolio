@@ -26,7 +26,7 @@ const Project = () => {
                hands-on learning.
             </p>
          </div>
-         <div className="p-5 flex flex-col md:flex-row flex-wrap justify-center gap-5 mb-10">
+         <div className="max-w-6xl mx-auto p-5 flex flex-col md:flex-row flex-wrap justify-center gap-5 mb-10">
             {projects.map((project)=>(<ProjectCard key={project.id} project={project}/>))}
          </div>
          <Footer/>
