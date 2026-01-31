@@ -18,7 +18,7 @@ const ProjectCard = ({ project }) => {
           {description}
         </p>
         <p className="text-gray-500 text-[12px] py-1 font-light">{date}</p>
-        <h5 className='text-right block md:hidden '><a href={link} className='text-[12px] text-blue-500 underline'>view more</a></h5>
+        <h5 className='text-right block md:hidden'><a href={link} className='text-[12px] text-blue-500 underline'>view more</a></h5>
       </div>
 
       <a
@@ -30,7 +30,7 @@ const ProjectCard = ({ project }) => {
             flex justify-center items-center
             bg-black/10
             opacity-0
-            md:group-hover:opacity-100
+            group-hover:opacity-100
             transition-opacity duration-300
           "
         >
