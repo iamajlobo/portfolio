@@ -21,7 +21,7 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
             flex justify-center items-center\r
             bg-black/10\r
             opacity-0\r
-            md:group-hover:opacity-100\r
+            group-hover:opacity-100\r
             transition-opacity duration-300\r
           `,children:C.jsx("p",{className:"text-white text-md font-semibold tracking-wider",children:"CLICK TO VIEW"})})]})},Q1=()=>{const[c,s]=_.useState([]),o=async()=>{const m=await(await fetch("./projects.json")).json();s(m)};return _.useEffect(()=>{o()},[]),C.jsxs("section",{className:"max-w-6xl mx-auto py-10 md:py-15 px-5 md:px-15 text-center animated-elements",children:[C.jsx("h2",{className:"text-xl md:text-4xl font-bold mb-5 text-blue-600",children:"My Activities"}),C.jsx("div",{className:"flex flex-col md:flex-row flex-wrap justify-center gap-5 mb-10",children:c.slice(0,4).map(r=>C.jsx(_d,{project:r},r.id))}),C.jsx(Hu,{className:`text-sm md:text-md bg-white py-2 px-4 text-blue-600 rounded-sm border-2 \r
                             border-blue-600 hover:bg-blue-600 hover:text-white transition ease-in-out \r
