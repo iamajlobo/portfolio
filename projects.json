@@ -1,86 +1,51 @@
 [
   {
     "id": 1,
-    "title": "My Activity 1",
-    "description": "A simple activity created to practice organizing tasks.",
-    "date": "2025-01-01",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
+    "title": "Practice Task 1",
+    "description": "A simple activity created to practice data preparation and cleaning.",
+    "date": "02-13-2026",
+    "link": "https://drive.google.com/file/d/1Z8P7TckmFKaJ0h5eLKccVqODOFlQt8Nz/view?usp=sharing"
   },
   {
     "id": 2,
-    "title": "My Activity 2",
-    "description": "This activity focuses on improving consistency and workflow.",
-    "date": "2025-01-03",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
+    "title": "Practice Task 2",
+    "description": "This activity focuses on practicing useful MS Functions.",
+    "date": "02-27-2026",
+    "link": "https://drive.google.com/file/d/1eEXcip7LKnE6pP4STnVwDIPR9vlHHheN/view?usp=sharing"
   },
   {
     "id": 3,
-    "title": "My Activity 3",
-    "description": "An activity designed to test ideas and basic functionality.",
-    "date": "2025-01-05",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
+    "title": "Practice Task 3",
+    "description": "An activity designed to teach how create a dashboard.",
+    "date": "02-27-2026",
+    "link": "https://drive.google.com/file/d/1LeIzO8PfVWuLTiEYOdXgmw4pyHkpzb3q/view?usp=sharing"
   },
   {
     "id": 4,
-    "title": "My Activity 4",
-    "description": "A short task aimed at learning better structure and planning.",
-    "date": "2025-01-07",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
+    "title": "Practice Task 4",
+    "description": "A short task aimed at learning how to use Power Query.",
+    "date": "03-06-2026",
+    "link": "https://drive.google.com/file/d/12iiFppXsQ3OJGRvEW_nGbnouhSDkYVWo/view?usp=sharing"
   },
   {
     "id": 5,
-    "title": "My Activity 5",
-    "description": "This activity represents steady progress and continuous learning.",
-    "date": "2025-01-09",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
+    "title": "Midterm Task 1",
+    "description": "This activity taught me on how to prepare and clean data.",
+    "date": "02-13-2026",
+    "link": "https://drive.google.com/file/d/10zufeE7adiCDD1UnwUL6xpvDPYjjX0gY/view?usp=sharing"
   },
   {
     "id": 6,
-    "title": "My Activity 6",
-    "description": "An example activity showing simple data handling.",
-    "date": "2025-01-11",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
+    "title": "Midterm Task 2",
+    "description": "An example activity showing how to use pivot table and how to create a chart",
+    "date": "02-20-2026",
+    "link": "https://drive.google.com/file/d/1YLbZpkiBGLYTr9EJKElghednoT3Ewswi/view?usp=sharing"
   },
   {
     "id": 7,
-    "title": "My Activity 7",
-    "description": "A task created to practice organizing content effectively.",
-    "date": "2025-01-13",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
-  },
-  {
-    "id": 8,
-    "title": "My Activity 8",
-    "description": "This activity highlights attention to detail and clarity.",
-    "date": "2025-01-15",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
-  },
-  {
-    "id": 9,
-    "title": "My Activity 9",
-    "description": "An activity focused on refining existing concepts.",
-    "date": "2025-01-17",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
-  },
-  {
-    "id": 10,
-    "title": "My Activity 10",
-    "description": "A sample entry used to demonstrate structured data.",
-    "date": "2025-01-19",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
-  },
-  {
-    "id": 11,
-    "title": "My Activity 11",
-    "description": "This activity reflects ongoing practice and improvement.",
-    "date": "2025-01-21",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
-  },
-  {
-    "id": 12,
-    "title": "My Activity 12",
-    "description": "A final sample activity completing the dummy dataset.",
-    "date": "2025-01-23",
-    "link": "https://drive.google.com/file/d/1c7q6nkad0eq_LdLpZ6c1BZABR6ScHAbS/view?usp=drive_link"
+    "title": "Midterm Task 3",
+    "description": "A task created to practice normalization using Power Query.",
+    "date": "03-06-2026",
+    "link": "https://drive.google.com/file/d/1uPqOPlUdN0RraDvVolu6f4cvTC4mK-Y4/view?usp=sharing"
   }
 ]
