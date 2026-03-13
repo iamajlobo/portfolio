@@ -4,48 +4,55 @@
     "title": "Practice Task 1",
     "description": "A simple activity created to practice data preparation and cleaning.",
     "date": "02-13-2026",
-    "link": "https://drive.google.com/file/d/1Z8P7TckmFKaJ0h5eLKccVqODOFlQt8Nz/view?usp=sharing"
+    "link": "https://drive.google.com/file/d/1Z8P7TckmFKaJ0h5eLKccVqODOFlQt8Nz/view?usp=sharing",
+    "image":"prac1.png"
   },
   {
     "id": 2,
     "title": "Practice Task 2",
     "description": "This activity focuses on practicing useful MS Functions.",
     "date": "02-27-2026",
-    "link": "https://drive.google.com/file/d/1eEXcip7LKnE6pP4STnVwDIPR9vlHHheN/view?usp=sharing"
+    "link": "https://drive.google.com/file/d/1eEXcip7LKnE6pP4STnVwDIPR9vlHHheN/view?usp=sharing",
+    "image":"prac2.png"
   },
   {
     "id": 3,
     "title": "Practice Task 3",
     "description": "An activity designed to teach how create a dashboard.",
     "date": "02-27-2026",
-    "link": "https://drive.google.com/file/d/1LeIzO8PfVWuLTiEYOdXgmw4pyHkpzb3q/view?usp=sharing"
+    "link": "https://drive.google.com/file/d/1LeIzO8PfVWuLTiEYOdXgmw4pyHkpzb3q/view?usp=sharing",
+    "image":"prac3.png"
   },
   {
     "id": 4,
     "title": "Practice Task 4",
     "description": "A short task aimed at learning how to use Power Query.",
     "date": "03-06-2026",
-    "link": "https://drive.google.com/file/d/12iiFppXsQ3OJGRvEW_nGbnouhSDkYVWo/view?usp=sharing"
+    "link": "https://drive.google.com/file/d/12iiFppXsQ3OJGRvEW_nGbnouhSDkYVWo/view?usp=sharing",
+    "image":"prac4.png"
   },
   {
     "id": 5,
     "title": "Midterm Task 1",
     "description": "This activity taught me on how to prepare and clean data.",
     "date": "02-13-2026",
-    "link": "https://drive.google.com/file/d/10zufeE7adiCDD1UnwUL6xpvDPYjjX0gY/view?usp=sharing"
+    "link": "https://drive.google.com/file/d/10zufeE7adiCDD1UnwUL6xpvDPYjjX0gY/view?usp=sharing",
+    "image":"prac5.png"
   },
   {
     "id": 6,
     "title": "Midterm Task 2",
     "description": "An example activity showing how to use pivot table and how to create a chart",
     "date": "02-20-2026",
-    "link": "https://drive.google.com/file/d/1YLbZpkiBGLYTr9EJKElghednoT3Ewswi/view?usp=sharing"
+    "link": "https://drive.google.com/file/d/1YLbZpkiBGLYTr9EJKElghednoT3Ewswi/view?usp=sharing",
+    "image":"prac6.png"
   },
   {
     "id": 7,
     "title": "Midterm Task 3",
     "description": "A task created to practice normalization using Power Query.",
     "date": "03-06-2026",
-    "link": "https://drive.google.com/file/d/1uPqOPlUdN0RraDvVolu6f4cvTC4mK-Y4/view?usp=sharing"
+    "link": "https://drive.google.com/file/d/1uPqOPlUdN0RraDvVolu6f4cvTC4mK-Y4/view?usp=sharing",
+    "image":"prac7.png"
   }
 ]
