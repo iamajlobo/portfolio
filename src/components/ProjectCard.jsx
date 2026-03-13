@@ -1,14 +1,14 @@
-import defaultImg from '../assets/placeholder.jpg';
 
-const ProjectCard = ({ project }) => {
-  const { img, title, description, date, link } = project;
+
+const ProjectCard = ({ project,photo }) => {
+  const {title, description, date, link } = project;
 
   return (
-    <div className="group bg-white w-full md:max-w-60 rounded-sm overflow-hidden shadow-md hover:shadow-lg relative cursor-pointer">
+    <div className="group bg-white w-full md:max-w-60 rounded-sm overflow-hidden shadow-md hover:shadow-lg relative cursor-pointer border border-gray-300">
       
       <img
         className="h-50 w-full object-cover"
-        src={img || defaultImg}
+        src={photo}
         alt={title}
       />
 
@@ -18,7 +18,6 @@ const ProjectCard = ({ project }) => {
           {description}
         </p>
         <p className="text-gray-500 text-[12px] py-1 font-light">{date}</p>
-        <h5 className='text-right block md:hidden'><a href={link} className='text-[12px] text-blue-500 underline'>view more</a></h5>
       </div>
 
       <a
