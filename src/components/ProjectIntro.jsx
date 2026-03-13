@@ -15,7 +15,7 @@ const ProjectIntro = () => {
         getProjects();
     },[]);
     return (
-        <section className="max-w-6xl mx-auto py-10 md:py-15 px-5 md:px-15 text-center animated-elements">
+        <section className="max-w-6xl mx-auto md:pt-15 py-10 md:py-15 px-5 md:px-15 text-center animated-elements">
             <h2 className="text-xl md:text-4xl font-bold mb-5 text-blue-600">My Activities</h2>
             <div className="flex flex-col md:flex-row flex-wrap justify-center gap-5 mb-10">
                 {projects.slice(0,4).map((projects)=>(<ProjectCard key={projects.id} project={projects}/>))}
