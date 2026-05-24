@@ -8,6 +8,12 @@ import prac4 from "../assets/prac4.png";
 import prac5 from "../assets/prac5.png";
 import prac6 from "../assets/prac6.png";
 import prac7 from "../assets/prac7.png";
+import final1 from "../assets/final1.png";
+import final2 from "../assets/final2.png";
+import final3 from "../assets/final3.png";
+import final4 from "../assets/final4.png";
+import final5 from "../assets/final5.png";
+import final6 from "../assets/final6.png";
 
 import defaultImg from "../assets/placeholder.jpg";
 
@@ -21,7 +27,13 @@ const Project = () => {
       "prac4.png": prac4,
       "prac5.png": prac5,
       "prac6.png": prac6,
-      "prac7.png": prac7
+      "prac7.png": prac7,
+      "final1.png": final1,
+      "final2.png": final2,
+      "final3.png": final3,
+      "final4.png": final4,
+      "final5.png": final5,
+      "final6.png": final6,
    };
 
    const getProjects = async () => {
@@ -31,7 +43,10 @@ const Project = () => {
    }
 
    useEffect(()=>{
-      getProjects();
+      const loadProjects = () => {
+         getProjects();
+      }
+      loadProjects();
    },[]);
 
    return (

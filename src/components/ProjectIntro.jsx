@@ -2,10 +2,10 @@ import { Link } from "react-router";
 import ProjectCard from "./ProjectCard";
 import { useState, useEffect } from "react";
 
-import prac1 from "../assets/prac1.png";
-import prac2 from "../assets/prac2.png";
-import prac3 from "../assets/prac3.png";
-import prac4 from "../assets/prac4.png";
+import final2 from "../assets/final2.png";
+import final3 from "../assets/final3.png";
+import final1 from "../assets/final1.png";
+import final6 from "../assets/final6.png";
 
 import defaultImg from "../assets/placeholder.jpg";
 
@@ -13,10 +13,10 @@ const ProjectIntro = () => {
   const [projects, setProjects] = useState([]);
 
   const photos = {
-    "prac1.png": prac1,
-    "prac2.png": prac2,
-    "prac3.png": prac3,
-    "prac4.png": prac4
+    "final6.png": final6,
+    "final2.png": final2,
+    "final3.png": final3,
+    "final1.png": final1
   };
 
   const getProjects = async () => {
@@ -26,7 +26,10 @@ const ProjectIntro = () => {
   };
 
   useEffect(() => {
-    getProjects();
+    const loadProjects = () => {
+      getProjects();
+    }
+    loadProjects();
   }, []);
 
   return (

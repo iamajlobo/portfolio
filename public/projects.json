@@ -1,5 +1,53 @@
 [
   {
+    "id": 12,
+    "title": "Final Project",
+    "description": "A Final Project to showcase what we have learned in the subject.",
+    "date": "05-15-2026",
+    "link": "https://github.com/iamajlobo/E-Learning-Platform-Dashboard",
+    "img":"final6.png"
+  },
+  {
+    "id": 8,
+    "title": "Final Essay Task 1",
+    "description": "A simple essay activity to test our understanding on the videe provided.",
+    "date": "04-23-2026",
+    "link": "https://drive.google.com/file/d/1xfm9D4ugOU8dB04iFJdmajGdmygGJyJd/view?usp=sharing",
+    "img":"final1.png"
+  },
+  {
+    "id": 9,
+    "title": "Final Task 2",
+    "description": "A simple activty to explore the PowerBi Application.",
+    "date": "04-23-2026",
+    "link": "https://drive.google.com/file/d/1UcMqTvgzG9KqqaDEAZuggPn04Pg1exca/view?usp=sharing",
+    "img":"final2.png"
+  },
+  {
+    "id": 13,
+    "title": "Final Task 3",
+    "description": "A simple activty to practice the usage of Time Intelligence.",
+    "date": "05-08-2026",
+    "link": "https://drive.google.com/file/d/1QEguXC3ZCgEAzHrCC_NW5Bd2piNo5s3O/view?usp=sharing",
+    "img":"final3.png"
+  },
+  {
+    "id": 10,
+    "title": "Final Task 4",
+    "description": "A simple activty to practice how to design interactive reports.",
+    "date": "05-08-2026",
+    "link": "https://drive.google.com/file/d/1hrSfPK_VMsb_Qv5gP8SAaU8ag1blzur0/view?usp=sharing",
+    "img":"final4.png"
+  },
+  {
+    "id": 11,
+    "title": "Final Task 5",
+    "description": "A simple activty to practice how to design interactive reports.",
+    "date": "05-08-2026",
+    "link": "https://drive.google.com/file/d/19dWlFEcGfUoVGa9KCaUf6uPQbGRBtuvt/view?usp=sharing",
+    "img":"final5.png"
+  },
+  {
     "id": 1,
     "title": "Practice Task 1",
     "description": "A simple activity created to practice data preparation and cleaning.",
